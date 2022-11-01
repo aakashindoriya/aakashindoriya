@@ -20,16 +20,20 @@
 
 ### 🛠 &nbsp;Tech Stack
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&lines=M!+Mongo+DB!;E!+Express!;R!+React+js!;N!+Node+js!;I'm+an+aspiring+developer...;)](https://git.io/typing-svg)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![mongo DB](https://img.shields.io/badge/-mongo%20DB-red)
+<br>
+
+<p>
+<div align="center">
+<img src="https://img.shields.io/badge/-react-FFEC33?style=for-the-badge&logo=react&logoColor=FFEC33&labelColor=282828">
+<img src="https://img.shields.io/badge/-express-d1a01f?style=for-the-badge&logo=express&logoColor=d1a01f&labelColor=282828">
+<img src="https://img.shields.io/badge/-mongodb-3CFF33?style=for-the-badge&logo=mongodb&logoColor=3CFF33&labelColor=282828">
+<img src="https://img.shields.io/badge/-chakraui-FFF033?style=for-the-badge&logo=chakraui&logoColor=FFF033&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Nodejs-FF8D33?style=for-the-badge&logo=javascript&logoColor=FF8D33&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  
+  
+</div>
+</p>
 
 
 <p align="center">
