@@ -15,12 +15,28 @@
 </p>
 </div>
 
+<p>
+ <ul>
+  <li>🔯 I’m currently working on I’m currently Looking to contiribute to new projects</li>
 
+<li>🌱 Focussing on learning Node js backend</li>
+
+<li>⭐ All of my projects are available at https://aakashindoriya.github.io/</li>
+
+<li>💬 Ask me about MongoDB , React, Java Script</li>
+
+<li>✍️ How to reach me aakashindoriya12346@gmail.com</li>
+
+  <li>📄 Know more about me <a href="https://drive.google.com/file/d/1Xf0rUjuZ6l0d375_uDfreeFO0zW5yd-W/view?usp=share_link">Resume</a> </li>
+  
+  </ul>
+ </p>
 
 
 ### 🛠 &nbsp;Tech Stack
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&lines=M!+Mongo+DB!;E!+Express!;R!+React+js!;N!+Node+js!;I'm+an+aspiring+developer...;)](https://git.io/typing-svg)
 <br>
+
 
 <p>
 <div align="center">
@@ -38,7 +54,7 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aakashindoriya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?  username=aakashindoriya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aakashindoriya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
