@@ -52,9 +52,15 @@
 </p>
 
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?  username=aakashindoriya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aakashindoriya&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://aakashindoriya.github.io/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aakashindoriya&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashindoriya&theme=gruvbox&hide_border=true" />
+  </a>
 </p>
+<br>
+
+[![Aakash Indoriya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aakashindoriya&custom_title=Aakash%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
