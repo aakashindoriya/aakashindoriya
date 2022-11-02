@@ -17,9 +17,8 @@
 
 <p>
  <ul>
-  <li>🔯 I’m currently working on I’m currently Looking to contiribute to new projects</li>
 
-<li>🌱 Focussing on learning Node js backend</li>
+<li>🌱 Focussing on learning Node js backend and looking forword to contribute in projects</li>
 
 <li>⭐ All of my projects are available at https://aakashindoriya.github.io/</li>
 
