@@ -24,7 +24,7 @@
 
 <li>💬 Ask me about MongoDB , React, Java Script</li>
 
-<li>✍️ How to reach me aakashindoriya12346@gmail.com</li>
+  <li>✍️ Reach me at <b>aakashindoriya12346@gmail.com</b></li>
 
   <li>📄 Know more about me <a href="https://drive.google.com/file/d/1Xf0rUjuZ6l0d375_uDfreeFO0zW5yd-W/view?usp=share_link">Resume</a> </li>
   
