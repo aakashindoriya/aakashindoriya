@@ -62,4 +62,4 @@
 </p>
 <br>
 
-[![Aakash Indoriya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aakashindoriya&custom_title=Aakash%20Indoriya's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Aakash Indoriya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aakashindoriya&custom_title=Aakash%20Indoriya's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://aakashindoriya.dev)
