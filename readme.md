@@ -38,14 +38,20 @@
 
 
 <p>
-<div align="center">
-<img src="https://img.shields.io/badge/-react-FFEC33?style=for-the-badge&logo=react&logoColor=FFEC33&labelColor=282828">
-<img src="https://img.shields.io/badge/-express-d1a01f?style=for-the-badge&logo=express&logoColor=d1a01f&labelColor=282828">
-<img src="https://img.shields.io/badge/-mongodb-3CFF33?style=for-the-badge&logo=mongodb&logoColor=3CFF33&labelColor=282828">
-<img src="https://img.shields.io/badge/-chakraui-FFF033?style=for-the-badge&logo=chakraui&logoColor=FFF033&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Nodejs-FF8D33?style=for-the-badge&logo=javascript&logoColor=FF8D33&labelColor=282828">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  
+<div >
+  <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="70px" height="70px"></a>
+ <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="70px" height="70px"></a>
+ <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="70px" height="70px"></a>
+<a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="70px" height="70px"></a>
+ <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="70px" height="70px"></a>
+<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="70px" height="70px"></a>
+<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="70px" height="70px"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="70px" height="70px"></a>
+<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="70px" height="70px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="70px" height="70px"></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="70px" height="70px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="70px" height="70px"></a>
+
   
 </div>
 </p>
