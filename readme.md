@@ -68,4 +68,5 @@
 </p>
 <br>
 
-[![Aakash Indoriya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aakashindoriya&custom_title=Aakash%20Indoriya's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/aakashindoriya)
+
+[![Aakash Indoriya's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aakashindoriya&bg_color=1b1c1d&color=898ed7&line=7b7fe5&point=001eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
