@@ -1,6 +1,8 @@
  
 
-<div align="center">
+<div  >
+ 
+ <div align="center">
 <h2> Hey , I'm Aakash  👋</h2>
 <p align="center">
   <em>
@@ -14,10 +16,10 @@
    <b>Learning while HOPING & HUSTLING!!!</b> 
 </p>
 </div>
-
+<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashindoriya" alt="aakashindoriya" /></a> </p>
-
+<br/>
 <p>
  <ul>
 
@@ -73,3 +75,5 @@
 
 
 [![Aakash Indoriya's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aakashindoriya&bg_color=1b1c1d&color=898ed7&line=7b7fe5&point=001eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ </div>
