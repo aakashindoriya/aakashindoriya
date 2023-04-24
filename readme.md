@@ -30,7 +30,7 @@
 <li>💬 Ask me about MongoDB , React, Java Script</li>
 
   <li>✍️ Reach me at <b>aakashindoriya12346@gmail.com</b></li>
-  <li>☝ Lets connect on Linkedin <a href="https://www.linkedin.com/in/aakashindoriya/" target="_blank" >Linkedin</a> </li>
+  <li>☝ Lets connect on <a href="https://www.linkedin.com/in/aakashindoriya/" target="_blank" >Linkedin</a> </li>
   <li>📄 Know more about me <a href="https://drive.google.com/file/d/1Xf0rUjuZ6l0d375_uDfreeFO0zW5yd-W/view?usp=share_link" target="_blank" >Resume</a> </li>
   
   </ul>
