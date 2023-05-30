@@ -74,6 +74,6 @@
 <br>
 
 
-[![Aakash Indoriya's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aakashindoriya&bg_color=1b1c1d&color=898ed7&line=7b7fe5&point=001eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aakash Indoriya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aakashindoriya&custom_title=Aakash%20Indoriya&hide_border=true&theme=gruvbox&bg_color=282828)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  </div>
