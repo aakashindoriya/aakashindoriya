@@ -2,19 +2,15 @@
 
 <div  >
  
- <div align="center">
-<h2> Hey , I'm Aakash  👋</h2>
-<p align="center">
-  <em>
-    This is ME, Akash indoriya, a <b>Masai School</b> certified MERN stack developer <br>
-    A budding <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-   <b>Learning while HOPING & HUSTLING!!!</b> 
-</p>
+<div align="center">
+  <h2> Hello, I'm Aakash 👋</h2>
+  <p align="center">
+    <em>
+      Allow me to introduce myself, I am Aakash Indoriya, a certified MERN stack developer from Masai School. With a passion for software development, I am actively pursuing mastery in full-stack development and engaging in competitive programming. I am driven by a relentless pursuit of self-improvement and seek opportunities to enhance my skills and knowledge.
+    </em> 
+    <br>
+    <b>Continuously learning, striving, and thriving!</b> 
+  </p>
 </div>
 <br/>
 
