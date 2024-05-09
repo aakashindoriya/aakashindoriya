@@ -19,7 +19,7 @@
 <p>
  <ul>
 
-<li>🌱 Focussing on learning Node js backend and looking forword to contribute in projects</li>
+<li>🌱 Focussing on learning Node js backend and looking forward to contributing to projects</li>
 
 <li>⭐ All of my projects are available at https://aakashindoriya.github.io/</li>
 
